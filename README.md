@@ -1,5 +1,5 @@
-# Hi there 👋
-### visit [My web~~shit~~](https://bread.divy.work)
+# Hi there o/
+### visit [My blog ~~pls~~](https://bread.divy.work)
 
 **I am breadA** (dhairy-online) 
 About ~~you~~*me :slightly_smiling_face:* ...
