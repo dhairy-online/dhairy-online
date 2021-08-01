@@ -15,3 +15,4 @@ I am the brother of [**@littledivy**](https://divy.work) and I am a student.
 ### Social links :
 #####  [Click here to see my blog](https://bread.divy.work)
 #####  [Click here to github profile](https://github.com/dhairy-online)
+#####  [Click here for free diamonds](https://suspicous.link)
