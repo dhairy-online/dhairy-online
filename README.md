@@ -5,7 +5,7 @@ Hello there! My name is *Dhairy Srivastava* And my hobby is to eat food ***(deli
 
 
 
-I am the [**@littledivy**](https://divy.work) and I am a student.
+I am the brother of [**@littledivy**](https://divy.work) and I am a student.
 >  Programmer
 
 > New to Minecraft
