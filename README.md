@@ -1,10 +1,17 @@
-# Hi there o/
-### visit [My blog](https://bread.divy.work)
+### ` Heya, I'm breadA AKA dhairy-online`
 
-**I'm breadA** (dhairy-online) 
-About ~~you~~*me :slightly_smiling_face:* ...
-I am a coder also a bot-dev
 
-Brother of [**@littledivy**](https://divy.work) and..
-Minecraft ~~newbie.~~(*jk*)
+Hello there! My name is *Dhairy Srivastava* And my hobby is to eat food ***(delicious food)*** although I am really thin 😐
 
+
+
+I am the [**@littledivy**](https://divy.work) and I am a student.
+>  Programmer
+
+> New to Minecraft
+
+> 
+---
+### Social links :
+#####  [Click here to see my blog](https://bread.divy.work)
+#####  [Click here to github profile](https://github.com/dhairy-online)
