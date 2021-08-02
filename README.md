@@ -11,8 +11,13 @@ I am the brother of [**@littledivy**](https://divy.work) and I am a student.
 > New to Minecraft
 
 > Learning rust
+
+---
+#### My Stats -
+[![breadA's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairy-online)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ### Social links :
 #####  [Click here to see my blog](https://bread.divy.work)
 #####  [Click here to see my github profile](https://github.com/dhairy-online)
-#####  [Click here for free diamonds1!!111](https://suspicous.link)
+#####  [Click here for free diamonds!1!11](https://suspicous.link)
