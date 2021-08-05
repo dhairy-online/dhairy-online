@@ -3,9 +3,6 @@
 
 Hello there! My name is *Dhairy Srivastava* And my hobby is to eat food ***(delicious food)*** although I am really thin 😐
 
-
-
-I am a student.
 >  Programmer
 
 > New to Minecraft
