@@ -15,6 +15,6 @@ Hello there! My name is *Dhairy Srivastava* And my hobby is to eat food ***(deli
 
 ---
 ### Social links :
-#####  [Click here to see my blog](https://bread.divy.work)
+#####  [Click here to see my blog](https://dhairy.works)
 #####  [Click here to see my github profile](https://github.com/dhairy-online)
 #####  [Click here for free diamonds!1!11](https://suspicous.link)
