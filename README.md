@@ -10,7 +10,7 @@ Hello there! My name is *Dhairy Srivastava* And my hobby is to eat food ***(deli
 > Learning rust
 
 ---
-#### My Stats -
+#### Github Status
 [![breadA's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairy-online)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
