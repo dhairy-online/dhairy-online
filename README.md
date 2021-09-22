@@ -9,8 +9,7 @@
 ![dog](https://img.shields.io/badge/dog-true-blue)
 
 
-[![Dhairy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhairy-online&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairy-online&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Living inside OR nearby Sagittarius A's Location
 
 [twitter](https://twitter.com/breadoonline) - 
 [website](https://website-breada.vercel.app) - 
