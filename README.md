@@ -5,7 +5,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dhairy-online.dhairy-online)
+
 ![dog](https://img.shields.io/badge/dog%20=-true-blue)
 
 
