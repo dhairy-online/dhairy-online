@@ -1,7 +1,4 @@
-
-<img align="right" height=230 src=https://user-images.githubusercontent.com/62501544/133982144-2762d8cd-4b65-4f0d-856b-294aa0fbfe2c.png>
-
-## Hello There 👋!
+👋
 
 
 
