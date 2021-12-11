@@ -1,4 +1,4 @@
-#### Hi im ~~a dog~~ dhairy!👋
+#### Hi, I'm dhairy! 👋
 - 🌱 I’m currently learning rust cuz why not
 - 🔭 I'm Interested in lua and c
 - 💬 Contact me
